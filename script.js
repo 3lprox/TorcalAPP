@@ -1,6 +1,6 @@
 // Lista de apps con sus URLs de descarga
 const apps = [
-  { name: "Mi App 1", url: "apps/app1.apk" },
+  { name: "Appod - Astrology app (For MobileProyect)", url: "apps/appod.apk" },
   { name: "Mi App 2", url: "apps/app2.apk" },
 ];
 
