@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #1DB954;
+}
+
+#appList {
+  list-style: none;
+  padding: 0;
+}
+
+#appList li {
+  padding: 10px;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+}
+
+#appList li:hover {
+  background-color: #1DB954;
+}
